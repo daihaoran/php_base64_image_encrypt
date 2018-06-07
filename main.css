@@ -1,0 +1,270 @@
+*{
+
+     padding: 0px; 
+
+     margin: 0px
+
+       }
+
+       
+
+ body{ 
+
+     background-color: #778899
+
+       }
+
+       
+
+a{text-decoration:none;}
+
+    
+
+ .header{
+
+     width: 100%;
+
+     height: 50px;
+
+     background-color: #778899;
+
+     padding-top: 18px;
+
+       }
+
+     
+
+ .content{
+
+     padding:8px;
+
+     overflow:hidden;
+
+     background-color: #FFF;
+
+       }
+
+    
+
+ .footer{
+
+     width: 100%;
+
+     height: 50px;
+
+     background-color: #778899;
+
+       }
+
+     
+
+ h2, h3{
+
+     text-align: center;
+
+     color: #333
+
+       }
+
+     
+
+form{
+
+     margin: 60px 0px
+
+      }
+
+     
+
+.a-button{
+
+     border: solid 1px #666;
+
+     padding: 3px 8px;
+
+     display: inline-block;
+
+     border-radius: 20px;
+
+     background: #888;
+
+       }
+
+     
+
+.text-left{
+
+     text-align: left;
+
+       }
+
+     
+
+.text-center{
+
+     text-align: center;
+
+       }
+
+/*index.php*/
+
+input{
+
+     border-radius: 10px;
+
+      }
+
+      
+
+#file{
+
+     padding: 6px;
+
+     border: solid 1px #DCDCDC;
+
+      }
+
+       
+
+.button-sub{
+
+      width: 90%;
+
+       height: 40px;
+
+       font-size: 18px;
+
+       margin-top: 50px;
+
+       border-radius: 20px;
+
+       background-color: #d2691e;
+
+       border-style: none;
+
+       color: #555;
+
+       }
+
+          
+
+/*upload_file.php*/
+
+.text-box, .img-box{
+
+       width: 100%;
+
+       text-align: center
+
+         }
+
+       
+
+.back{
+
+       position: absolute;
+
+       left: 10px;
+
+         }
+
+       
+
+.show-img{
+
+       position: absolute;
+
+       right: 10px;
+
+       top: 16px;
+
+         }
+
+       
+
+li{
+
+       border: solid 1px #778899;
+
+       overflow:hidden;
+
+       overflow-x: auto;
+
+       padding: 6px;
+
+       background-color: #C8C8C8;
+
+       border-radius: 6px;
+
+       text-align: left;
+
+         }
+
+       
+
+ol>.middle{
+
+       border-top: none;
+
+         }
+
+       
+
+ol>.middle-img{
+
+       border-left: none;
+
+       border-right: none;
+
+       border-top: none;
+
+       padding: 10px 0px;
+
+       background-color: #FFF;
+
+         }
+
+       
+
+p{
+
+       margin: 8px 0px
+
+         }
+
+      
+
+.textin{
+
+       padding:5px;
+
+         }
+
+.a-upload-allfile{
+
+       display: inline-block;
+
+       float:right;
+
+       margin: 10px 20px 0px 0px;
+
+         }
+
+         
+
+/*allFiles.php*/
+
+.a-all-files{
+
+       display: inline-block;
+
+       float:right;
+
+       margin-top: 60px;
+
+         }
+
+     
+
+/*.END.*/      
+
