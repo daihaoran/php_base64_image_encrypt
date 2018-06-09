@@ -1,5 +1,6 @@
-#php的base64图片加密示范程序。
+#php_base64_image_encrypt
 
+php的base64图片加密示范程序。
 
 1.base64图片加密的php示例程序，本程序只是一个完整的演示程序。
 
